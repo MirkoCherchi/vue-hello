@@ -4,12 +4,17 @@
     padding: 0;
     
 }
+body {
+    background-color: darkorchid;
+}
 
 .coloretitolo{
-    color: lightgreen;
+    color: #00bd82;
     text-align: center;
 }
 
-body{
-    background-color: darkorchid;
+.imgcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
